@@ -1,0 +1,22 @@
+{
+  "name": "noomispange.se",
+  "version": "1.0.0",
+  "description": "noomispange.se portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir -p dist && echo noomispange.se > dist/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pertoyra/noomispange.se.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pertoyra/noomispange.se/issues"
+  },
+  "homepage": "https://github.com/pertoyra/noomispange.se#readme"
+}
